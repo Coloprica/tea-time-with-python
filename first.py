@@ -1,6 +1,6 @@
 def multiply(a,b):
 	result = a * b
-	print(f'Получилось: {result}')
+	print(f'Полу1чилось: {result}')
 
 def count_middle_of(array):
 	sum = 0
